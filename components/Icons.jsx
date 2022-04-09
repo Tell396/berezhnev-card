@@ -17,7 +17,7 @@ export default function Icons() {
                     </Text>
 
                     <Text mr={3}>
-                        <a href="https://berezhnev-card-lt7t5wfc9-tell396.vercel.app/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://berezhnev.vercel.app/" target="_blank" rel="noopener noreferrer">
                             <FaBlackTie />
                         </a>
                     </Text>
